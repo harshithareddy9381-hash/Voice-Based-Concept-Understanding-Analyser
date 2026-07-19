@@ -1,2 +1,2 @@
-# Voice-Based-Concept-Understanding-Analyser
+# Voice-Based Concept Understanding Analyser ## Description An AI-powered Streamlit application that evaluates a user's spoken explanation using: - OpenAI Whisper (Speech-to-Text) - Sentence-BERT (Semantic Similarity) - Librosa (Audio Analysis) - ReportLab (PDF Report Generation) ## Technologies - Python - Streamlit - Whisper - Sentence-BERT - Librosa - ReportLab ## Team - Gajulapalle Namratha# Voice-Based-Concept-Understanding-Analyser# Voice-Based-Concept-Understanding-Analyser
 Voice Based Concept Understanding Analyser Description
